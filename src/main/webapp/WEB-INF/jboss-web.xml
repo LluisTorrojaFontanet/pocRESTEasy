@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>RESTeasy</context-root>
+</jboss-web>
